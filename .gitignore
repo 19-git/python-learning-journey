@@ -25,3 +25,9 @@ Desktop.ini
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Testing / coverage
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
