@@ -14,11 +14,12 @@
 | `sorting_algorithms/` | 常见排序算法实现 |
 | `concurrency_and_networking/` | 多线程与网络编程 |
 | `pagination_show/` | 数据分页（翻页）示例与学习日志 |
+| `flask_learning/`  | Flask Web 入门（服务器/路由/表单提交）与学习日志 |
 
 ## 环境
 
 - Python 3.11
-- 每个文件夹可独立运行，无额外第三方依赖（标准库为主）
+- 每个文件夹可独立运行；flask_learning 需先安装 Flask（`pip install flask`）
 
 ## 说明
 
